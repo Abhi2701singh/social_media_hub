@@ -4,7 +4,7 @@ A sleek and interactive social media hub that brings all your profiles together 
 
 🚀 **Live Demo:** [Social Media Hub](https://socialmediahub07.netlify.app/)  
 
-![Social Media Hub Preview](preview.png)  
+![Social Media Hub Preview](scr.png)  
 
 ---
 
