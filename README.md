@@ -103,9 +103,5 @@ git clone https://github.com/yourusername/social-media-hub.git
 
 
 
-💖 Made with passion by [Abhinav Singh](https://github.com/Abhi2701singh).  
 
-🔥 **Join the revolution of seamless social media integration today!**  
-
----
 
