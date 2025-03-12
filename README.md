@@ -94,7 +94,7 @@ git clone https://github.com/yourusername/social-media-hub.git
 
 ## 👨‍💻 **Author**  
 
-**Abhinav Singh**  
+**ABHINAV SINGH**  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-singh-303869294/)  
 🐙 [GitHub](https://github.com/Abhi2701singh)  
 🎥 [YouTube - CodeNavi](https://youtube.com/@codenavi_07)  
